@@ -1,0 +1,15 @@
+execute as @s if block ~ ~ ~ black_concrete run team join p.black
+execute as @s if block ~ ~ ~ white_concrete run team join p.white
+execute as @s if block ~ ~ ~ black_concrete run team join p.black
+execute as @s if block ~ ~ ~ light_gray_concrete run team join p.lgray
+execute as @s if block ~ ~ ~ gray_concrete run team join p.gray
+execute as @s if block ~ ~ ~ purple_concrete run team join p.purple
+execute as @s if block ~ ~ ~ magenta_concrete run team join p.magenta
+execute as @s if block ~ ~ ~ pink_concrete run team join p.pink
+execute as @s if block ~ ~ ~ red_concrete run team join p.red
+execute as @s if block ~ ~ ~ orange_concrete run team join p.orange
+execute as @s if block ~ ~ ~ yellow_concrete run team join p.yellow
+execute as @s if block ~ ~ ~ lime_concrete run team join p.lime
+execute as @s if block ~ ~ ~ light_blue_concrete run team join p.lblue
+execute as @s if block ~ ~ ~ blue_concrete run team join p.blue
+execute as @s if block ~ ~ ~ green_concrete run team join p.green
