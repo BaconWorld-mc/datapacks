@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "ella": {
+        "trigger": "minecraft:entity_hurt_player",
+        "conditions": {
+          "player": {},
+          "damage": {
+            "source_entity": {
+              "type": "minecraft:player",
+              "equipment": {
+                "mainhand": {
+                  "nbt": "{Tags:[\"Bloody\"]}"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "rewards": {}
+  }
+  
